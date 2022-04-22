@@ -1,7 +1,7 @@
 # flask_blog
 Blog con Flask
 
-Aplicación con Flask para mostrar un blog con las entradas almacenadas en una ase de datos SQLite
+Aplicación con Flask para mostrar un blog con las entradas almacenadas en una base de datos SQLite
 
 sudo apt update
 
